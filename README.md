@@ -10,7 +10,9 @@ Project scaffold and modeling plan. No model has been trained and no player reco
 
 Sleeper league ID: `1312319914337402880`
 
-League settings and rosters must be fetched and verified before tailoring recommendations. The owner's team has not yet been identified.
+Verified on November 10, 2026: The Highlanders, a 10-team full-PPR superflex league (2026 season). Sleeper user `briannuevo` owns roster `1`; the stable account ID and roster association are configured in `config/league.json`.
+
+Refresh league settings and rosters before generating recommendations.
 
 ## First model
 
