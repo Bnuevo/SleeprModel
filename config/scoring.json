@@ -1,0 +1,16 @@
+{
+  "passing_yards": 0.04,
+  "passing_tds": 4,
+  "passing_interceptions": -1,
+  "rushing_yards": 0.1,
+  "rushing_tds": 6,
+  "receptions": 1,
+  "receiving_yards": 0.1,
+  "receiving_tds": 6,
+  "fumbles_lost_total": -2,
+  "special_teams_tds": 6,
+  "fumble_recovery_tds": 6,
+  "passing_2pt_conversions": 2,
+  "rushing_2pt_conversions": 2,
+  "receiving_2pt_conversions": 2
+}
